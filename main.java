@@ -5,7 +5,9 @@ import java.util.LinkedList;
 
 class Main {
   public static void main(String[] args) {
+    //creating stack object from Stack class
     Stack stack = new Stack();
+    // importing Queue library and creating linkedlist object from the class
     Queue queue = new LinkedList();
     
     String inputSentence;
